@@ -23,7 +23,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# gestion_des_notes_vuejs" 
-"# gestion_des_notes_vuejs" 
-"# gestion_des_notes_vuejs" 
-"# gestion_des_notes_vuejs" 
-"# gestion_des_notes_vuejs" 
